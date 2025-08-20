@@ -26,19 +26,19 @@
 
 - Tela inicial
 
-![Resultado exibido](captura%20de%20tela/captura%20de%20tela1.png)
+![Resultado exibido](captura%20de%20tela/captura%20de%20tela1.jpg)
 
 ---
 
 - Tela após apertar o like
 
-![Resultado exibido](captura%20de%20tela/captura%20de%20tela2.png)
+![Resultado exibido](captura%20de%20tela/captura%20de%20tela2.jpg)
 
 ---
 
 - Tela apos clicar em compartilhar
 
-![Resultado exibido](captura%20de%20tela/captura%20de%20tela3.png)
+![Resultado exibido](captura%20de%20tela/captura%20de%20tela3.jpg)
 
 ---
 
